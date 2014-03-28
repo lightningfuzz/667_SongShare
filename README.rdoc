@@ -1,3 +1,10 @@
-== README
+== Music Sharing Website
+
+This website allows artists to sign up and upload songs in an album format. 
+
+Fans can login with facebook and build playlists with songs from throughout the website.
 
 Website can be viewed at https://stark-sea-8029.herokuapp.com
+
+====Technologies 
+Ruby on Rail, jQuery, AWS S3, Facebook API, Bootstrap, HTML5, MySQL. 
